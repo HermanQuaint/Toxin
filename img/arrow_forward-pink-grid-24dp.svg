@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+     fill="url(#linear-gradient)"
+     width="24px" height="24px">
+
+    <!-- Градиент -->
+    <linearGradient id="linear-gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#BC9CFF"/>
+        <stop offset="100%" stop-color="#8BA4F9"/>
+    </linearGradient>
+
+
+
+
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
+</svg>
